@@ -8,7 +8,7 @@ assignment 11
 
   ## Table of Contents 
   * [Description](#Description)
-  * [User Story] (#UserStory)
+  * [User Story](#UserStory)
   * [Project URL](#Project-URL)
   * [Mock-up](#Mock-up)
   * [Usage](#Usage)
