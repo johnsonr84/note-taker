@@ -64,11 +64,7 @@ assignment 11
      <td>note-taker</td>
      <td>note-taker</td>
   </tr>
-   <tr>
-    <td><img src="./img/weather-dashboard_3.png" height=300 alt="screenshot of weather-dashboard"></td>
-    <td><img src="./img/weather-dashboard_4.png" height=300 alt="screenshot of weather-dashboard"></td>
-  </tr>
- </table>
+  
 
   ## Installation 
   No installations required at this time 
