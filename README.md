@@ -55,8 +55,8 @@ assignment 11
      <td>note-taker instructions</td>
   </tr>
   <tr>
-    <td><img src="./img/note-taker_1.png" height=300 alt="screenshot of note-taker"></td>
-    <td><img src="./img/note-taker_2.png" height=300 alt="screenshot of note-taker"></td>
+    <td><img src="assets/11-express-homework-demo-01.png" height=300 alt="screenshot of note-taker"></td>
+    <td><img src="assets/11-express-homework-demo-02.png" height=300 alt="screenshot of note-taker"></td>
   </tr>
   </table>
   <table>
