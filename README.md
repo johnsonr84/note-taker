@@ -10,6 +10,7 @@ assignment 11
   * [Description](#Description)
   * [User Story](#UserStory)
   * [Project URL](#Project-URL)
+  * [Deplyment](#Deployment)
   * [Mock-up](#Mock-up)
   * [Usage](#Usage)
   * [Credits](#Credits)
@@ -47,6 +48,9 @@ assignment 11
   ```
   ## Project URL
   https://github.com/johnsonr84/note-taker
+
+  ## Deployment
+  https://fathomless-journey-02992.herokuapp.com/
 
   ## Mock-Up
   <table>
