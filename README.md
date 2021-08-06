@@ -23,7 +23,7 @@ assignment 11
   #
   
   ## Description 
-  Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. 
+  Easy to use note taking application using an Express back end to connect to the input data on the front end. Uniqid was used to generate unique IDs, and fs and path dependencies. Test out the application on the Heroku deplyment below.
 
   ## UserStory 
   ```
@@ -56,7 +56,7 @@ assignment 11
   <table>
   <tr>
     <td>note-taker</td>
-     <td>note-taker instructions</td>
+     <td>note-taker example</td>
   </tr>
   <tr>
     <td><img src="assets/11-express-homework-demo-01.png" height=300 alt="screenshot of note-taker"></td>
@@ -71,10 +71,10 @@ assignment 11
   
 
   ## Installation 
-  No installations required at this time 
+  Run npm install to obtain the required dependencies and then run node index to start the application. 
 
   ## Usage 
-  No usage requirements
+  To use the application, enter a title and body for your note and press the save button. Notes can be viewed or deleted, and new notes can be created by clicking the icon on the top right.
 
   ## Credits 
   Me, myself and Irene 
