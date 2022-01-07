@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://fathomless-journey-02992.herokuapp.com/"> Note Taker 🗓️</a></h1>
+<h1 align="center"><a href="https://fathomless-journey-02992.herokuapp.com/"> Note Taker ✅</a></h1>
 
   ## Description 
   Easy to use note taking application using an Express back end to connect to the input data on the front end. Uniqid was used to generate unique IDs, and fs and path dependencies. Test out the application on the Heroku deplyment below or link above.
