@@ -1,58 +1,37 @@
-# note-taker
-assignment 11
+<h1 align="center"><a href="https://fathomless-journey-02992.herokuapp.com/"> Note Taker 🗓️</a></h1>
+
+  ## Description 
+  Easy to use note taking application using an Express back end to connect to the input data on the front end. Uniqid was used to generate unique IDs, and fs and path dependencies. Test out the application on the Heroku deplyment below or link above.
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
   [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/note-taker)
   [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/note-taker)
   [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
+## Built With
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+
   ## Table of Contents 
   * [Description](#Description)
-  * [User Story](#UserStory)
   * [Project URL](#Project-URL)
-  * [Deplyment](#Deployment)
-  * [Mock-up](#Mock-up)
+  * [Deployment](#Deployment)
+  * [Demo/Screenshots](#Demo/Screenshots)
+  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
-  * [Features](#Features)
-  * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by](#Designed-and-built-by)
+  * [Author](#Author)
   #
-  
-  ## Description 
-  Easy to use note taking application using an Express back end to connect to the input data on the front end. Uniqid was used to generate unique IDs, and fs and path dependencies. Test out the application on the Heroku deplyment below.
 
-  ## UserStory 
-  ```
-  AS A small business owner
-  I WANT to be able to write and save notes  SO THAT I can organize my thoughts and keep track of tasks I need to complete
-  ```
-  ## Acceptance Criteria
-  ``` 
-  GIVEN a note-taking application
-  WHEN I open the Note Taker
-  THEN I am presented with a landing page with a link to a notes page
-  WHEN I click on the link to the notes page
-  THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-  WHEN I enter a new note title and the note’s text
-  THEN a Save icon appears in the navigation at the top of the page
-  WHEN I click on the Save icon
-  THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-  WHEN I click on an existing note in the list in the left-hand column
-  THEN that note appears in the right-hand column
-  WHEN I click on the Write icon in the navigation at the top of the page
-  THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-  ```
   ## Project URL
   https://github.com/johnsonr84/note-taker
 
   ## Deployment
   https://fathomless-journey-02992.herokuapp.com/
 
-  ## Mock-Up
+  ## Demo/Screenshots
   <table>
   <tr>
     <td>note-taker</td>
@@ -68,13 +47,12 @@ assignment 11
      <td>note-taker</td>
      <td>note-taker</td>
   </tr>
-  
 
   ## Installation 
-  Run npm install to obtain the required dependencies and then run node index to start the application. 
+  Access to GitHub.com and a code editor such as vscode is necessary. Click the GitHub link provided above to the APP REPO. Click on the green button that says Clone or Download and Choose how you would like to download: using the SSH/HTTPS keys or download the zip file. If using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. If using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and open it.
 
   ## Usage 
-  To use the application, enter a title and body for your note and press the save button. Notes can be viewed or deleted, and new notes can be created by clicking the icon on the top right.
+  In order to use this APP, you need terminal (mac: pre-installed) or gitbash (pc: must be installed). You also need to download and install [node.js](https://nodejs.org/en/) and [npm](www.npmjs.com) or [yarn](https://yarnpkg.com/) package manager. Open the cloned REPO in your favorite code editor, and then in terminal, enter the command “npm i“ or “yarn add”  to install the dependencies.  Now you are ready to start using the app by entering “npm start” or "yarn start" on your terminal or gitbash. If you just want to try how the app works, you can go to the link [here](https://fathomless-journey-02992.herokuapp.com/)
 
   ## Credits 
   Me, myself and Irene 
@@ -97,11 +75,10 @@ assignment 11
   * [YouTube](https://www.youtube.com/)
   * [UOFU-SAN-FSF-PT-11-2020-U-C/10-OOP/Activities]
 
-
   ## Contact
   Email: robertcjohnson1984@gmail.com 
 
-  ## Designed and built by
+  ## Author
   Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
